@@ -28,11 +28,11 @@ body {
 }
 
 .nav-item {
-  padding: 0 18px;
+  padding: 0 5px;
 }
 
 .nav-link {
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-family: 'Lobster', cursive
 }
 
